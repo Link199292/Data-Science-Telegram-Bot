@@ -1,0 +1,19 @@
+{
+    "B": {
+        "Lecture1": {
+            "prof": "Name Surname",
+            "Moodle": "MoodleWebsite",
+            "Zoom": "ZoomLink",
+            "Pass": "ZoomPass"
+        }
+    },
+    "A": {
+
+        "Lecture2": {
+            "prof": "Name Surname",
+            "Moodle": "MoodleWebsite",
+            "Zoom": "ZoomLink",
+            "Pass": "ZoomPass"
+        }
+    }
+}
